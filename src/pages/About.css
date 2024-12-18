@@ -1,0 +1,83 @@
+.about-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #fff; /* Белый фон */
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  color: #000; /* Черный текст */
+}
+
+.about-title {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000; /* Черный цвет заголовка */
+  text-transform: uppercase;
+}
+
+.about-description {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 25px;
+  color: #333; /* Темно-серый текст */
+}
+
+.about-feature h2,
+.about-mission h2,
+.about-contact h2 {
+  font-size: 24px;
+  color: #000; /* Черный цвет заголовков */
+  margin-bottom: 10px;
+}
+
+.about-list {
+  list-style-type: square;
+  margin: 10px 0 20px 20px;
+  color: #333; /* Темно-серый текст списка */
+  font-size: 17px;
+}
+.luias {
+  color: #000;
+}
+
+.about-list li {
+  margin-bottom: 8px;
+}
+
+.about-mission {
+  background-color: #f9f9f9; /* Светло-серый фон */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.about-contact {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.about-link {
+  color: #000; /* Черный цвет ссылки */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.about-link:hover {
+  text-decoration: underline;
+}
+
+.about-footer {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  color: #000; /* Черный цвет футера */
+  text-shadow: none; /* Убираем тени */
+}
+
+  
